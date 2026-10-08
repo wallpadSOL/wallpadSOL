@@ -2,6 +2,7 @@
 
 <div align="center">
 <a href="https://wallpad.run"><img src="https://img.shields.io/badge/wallpad.run-the%20wall-53FC18?style=for-the-badge&labelColor=07080A" alt="wallpad.run"></a>
+<a href="https://x.com/justwallpad"><img src="https://img.shields.io/badge/x-%40justwallpad-07080A?style=for-the-badge&logo=x&logoColor=53FC18&labelColor=07080A" alt="x"></a>
 <a href="https://wallpad.run/launch.html"><img src="https://img.shields.io/badge/launch-a%20coin-7C3AED?style=for-the-badge&logo=solana&logoColor=F3F5F1&labelColor=07080A" alt="launch a coin"></a>
 <a href="https://github.com/wallpadSOL/wall"><img src="https://img.shields.io/badge/agent-source-07080A?style=for-the-badge&logo=github&logoColor=53FC18&labelColor=07080A" alt="agent source"></a>
 <img src="https://img.shields.io/github/followers/wallpadSOL?style=for-the-badge&logo=github&logoColor=53FC18&color=07080A&labelColor=07080A&label=followers" alt="followers">
@@ -77,4 +78,4 @@ site    = "https://wallpad.run"
 <a href="https://wallpad.run/launch.html"><img src="https://img.shields.io/badge/launch%20a%20coin-53FC18?style=for-the-badge&labelColor=07080A&color=53FC18" alt="launch a coin"></a>
 </div>
 
-<p align="center"><sub>built in public · <a href="https://wallpad.run">wallpad.run</a></sub></p>
+<p align="center"><sub>built in public · <a href="https://wallpad.run">wallpad.run</a> · <a href="https://x.com/justwallpad">@justwallpad</a></sub></p>
