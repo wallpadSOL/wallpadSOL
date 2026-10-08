@@ -5,7 +5,7 @@
 <a href="https://wallpad.run/launch.html"><img src="https://img.shields.io/badge/launch-a%20coin-7C3AED?style=for-the-badge&logo=solana&logoColor=F3F5F1&labelColor=07080A" alt="launch a coin"></a>
 <a href="https://github.com/wallpadSOL/wall"><img src="https://img.shields.io/badge/agent-source-07080A?style=for-the-badge&logo=github&logoColor=53FC18&labelColor=07080A" alt="agent source"></a>
 <img src="https://img.shields.io/github/followers/wallpadSOL?style=for-the-badge&logo=github&logoColor=53FC18&color=07080A&labelColor=07080A&label=followers" alt="followers">
-<img src="https://komarev.com/ghpvc/?username=wallpadSOL&style=for-the-badge&color=53fc18&label=profile+views" alt="profile views">
+<a href="https://github.com/wallpadSOL/wall/stargazers"><img src="https://img.shields.io/github/stars/wallpadSOL/wall?style=for-the-badge&logo=github&logoColor=53FC18&color=07080A&labelColor=07080A&label=stars" alt="stars"></a>
 </div>
 
 <br>
