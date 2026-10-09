@@ -3,6 +3,7 @@
 <div align="center">
 <a href="https://wallpad.run"><img src="https://img.shields.io/badge/wallpad.run-the%20wall-53FC18?style=for-the-badge&labelColor=07080A" alt="wallpad.run"></a>
 <a href="https://x.com/justwallpad"><img src="https://img.shields.io/badge/x-%40justwallpad-07080A?style=for-the-badge&logo=x&logoColor=53FC18&labelColor=07080A" alt="x"></a>
+<a href="https://wallpad.run/#token"><img src="https://img.shields.io/badge/%24WALL-buy%20on%20wallpad.run-53FC18?style=for-the-badge&logo=solana&logoColor=07080A&labelColor=07080A" alt="buy $WALL"></a>
 <a href="https://wallpad.run/launch.html"><img src="https://img.shields.io/badge/launch-a%20coin-7C3AED?style=for-the-badge&logo=solana&logoColor=F3F5F1&labelColor=07080A" alt="launch a coin"></a>
 <a href="https://github.com/wallpadSOL/wall"><img src="https://img.shields.io/badge/agent-source-07080A?style=for-the-badge&logo=github&logoColor=53FC18&labelColor=07080A" alt="agent source"></a>
 <img src="https://img.shields.io/github/followers/wallpadSOL?style=for-the-badge&logo=github&logoColor=53FC18&color=07080A&labelColor=07080A&label=followers" alt="followers">
@@ -22,6 +23,7 @@ cut     = "a 30 second clip, the moment the line is crossed, verdict written in 
 fees    = { burn = "40%", launchers = "40%", platform = "20%" }   # every hour, on chain
 never   = ["posts in chat", "trades", "touches your keys"]
 site    = "https://wallpad.run"
+mint    = "5beM5KG6JQLFuzRYaHqQwRd48VDGpzMZwdm78eSppump"   # $WALL on pump.fun, the only one
 ```
 
 ### 🧰 Stack
@@ -66,6 +68,8 @@ site    = "https://wallpad.run"
 <img src="https://img.shields.io/badge/chats-Kick%20%2B%20Twitch-53FC18?style=for-the-badge&labelColor=07080A" alt="chats">
 <img src="https://img.shields.io/badge/the%20agent-never%20posts%2C%20never%20trades-7C3AED?style=for-the-badge&labelColor=07080A" alt="never">
 </div>
+
+<p align="center"><sub><b>$WALL</b> · <code>5beM5KG6JQLFuzRYaHqQwRd48VDGpzMZwdm78eSppump</code> · <a href="https://pump.fun/coin/5beM5KG6JQLFuzRYaHqQwRd48VDGpzMZwdm78eSppump">pump.fun</a> · <a href="https://dexscreener.com/solana/5beM5KG6JQLFuzRYaHqQwRd48VDGpzMZwdm78eSppump">dexscreener</a> · <a href="https://wallpad.run/#token">buy on the site</a></sub></p>
 
 <p align="center"><sub>the rules as the agent runs them. the public json: <a href="https://api.wallpad.run/state.json">state</a> · <a href="https://api.wallpad.run/spikes.json">spikes</a> · <a href="https://api.wallpad.run/clips.json">clips</a> · <a href="https://api.wallpad.run/coins.json">coins</a> · <a href="https://api.wallpad.run/fees.json">fees</a></sub></p>
 
